@@ -11,7 +11,7 @@ const crypto = require('crypto');
 
 // --- Fixed config for the Home RenoVision DIY (us20) audience --------------
 const LIST_ID = '6adf28eedf';
-const TAGS = ['Caveman Tools', 'Caveman Waitlist'];
+const TAGS = ['Caveman Tools', 'CT Waitlist'];
 // New subscribers are added as 'subscribed' (single opt-in), matching a
 // waitlist signup. Change to 'pending' if you want Mailchimp's confirmation
 // email (double opt-in).

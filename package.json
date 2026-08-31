@@ -1,0 +1,9 @@
+{
+  "name": "caveman-mailchimp-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless proxy that subscribes teaser signups to the Home RenoVision DIY Mailchimp audience server-to-server, so the browser never contacts list-manage.com.",
+  "engines": {
+    "node": ">=18"
+  }
+}
